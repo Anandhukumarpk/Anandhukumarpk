@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python full stack developer 
 - 💞️ I’m looking to collaborate on Django Developer
-- 📫 How to reach me +918714320113
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
